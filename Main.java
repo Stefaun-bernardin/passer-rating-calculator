@@ -1,3 +1,5 @@
+//passer rating calculator
+
 import java.util.Scanner;
 
 class Main {
